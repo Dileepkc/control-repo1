@@ -18,14 +18,14 @@ mod "puppetlabs/java",        '1.6.0'
 #  :branch => 'docs_experiment'
 
 mod 'ssh',
-  :git => 'https://github.com/Dileepkc/Master-Puppet-ssh1.git,
+  :git => 'https://github.com/Dileepkc/Master-Puppet-ssh1.git',
   :ref => 'master'
 
-mod 'role',
-  :git => 'https://github.com/Dileepkc/puppet-role1.git',
-  :ref => 'master'
+#mod 'role',
+#  :git => 'https://github.com/Dileepkc/puppet-role1.git',
+#  :ref => 'master'
 
-mod 'profile',
-  :git => 'https://github.com/Dileepkc/puppet-profile1.git',
-  :ref => 'master'
+#mod 'profile',
+#  :git => 'https://github.com/Dileepkc/puppet-profile1.git',
+#  :ref => 'master'
 
